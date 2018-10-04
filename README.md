@@ -7,11 +7,24 @@ In particular, for our case of study (*Academic Risk based on Historical Data)*.
 
 **Uncertainty Dashboard** is a proposed visualization technique where the risk to fail in an academic semester is predicted by the machine learning algorithm and is  presented to the users (professors and academics) in a straightforward way, so they can make an informed decision concerning the optimal student's academic load.
 
-## Early Prototype
+## Early Prototype
 
 <img src="public/a.png">
 
 <img src="public/b.jpg">
+
+## Pointers to publications
+### Case study report
+http://www.ableproject.eu/project/reports-three-institutional-case-studies/
+
+### Data collection and utilization
+http://www.ableproject.eu/project/report-methods-and-tools-to-collect-and-utilise-data/
+
+### Visualization and analysis
+http://www.ableproject.eu/project/report-methods-and-tools-to-visualise-and-analyse-learning-analytics-data/
+
+### Scientific publications 
+Gutiérrez, F., Seipp, K., Ochoa, X., Chiluiza, K., De Laet, T., Verbert, K. (2018a) LADA: a Learning Analytics Dashboard for Academic Advising. Accepted for publication in Computers in Human Behavior  (IF 3.435). 15 pages
 
 ## How to
 
